@@ -1,0 +1,6 @@
+@hello_HostAddress = http://localhost:5097
+
+GET {{hello_HostAddress}}/Pradeep/
+Accept: application/json
+
+###
